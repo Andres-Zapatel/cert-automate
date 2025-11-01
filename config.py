@@ -1,7 +1,7 @@
-RUTA_EXCEL = r"C:\Users\Diego AB\OneDrive - Universidad Peruana Cayetano Heredia\Idiomas Cayetano\02 Programa Idiomas\Administrativo\Certificados y Constancias\Servicios académicos - certificados y constancias.xlsx"
-RUTA_PLANTILLAS = r"C:\Users\Diego AB\OneDrive - Universidad Peruana Cayetano Heredia\Idiomas Cayetano\02 Programa Idiomas\Administrativo\Certificados y Constancias\Repositorio\plantillas"
-RUTA_SALIDAS = r"C:\Users\Diego AB\OneDrive - Universidad Peruana Cayetano Heredia\Diego\CERTIFICADOS PYTHON"
-RUTA_TEMP_QR = r"C:\Users\Diego AB\OneDrive - Universidad Peruana Cayetano Heredia\Diego\CERTIFICADOS PYTHON\QR"
+RUTA_EXCEL = r"C:\Users\Andres Zapatel\OneDrive - Universidad Peruana Cayetano Heredia\Archivos de Idiomas Cayetano - Idiomas Cayetano\02 Programa Idiomas\Administrativo\Certificados y Constancias\Servicios académicos - certificados y constancias.xlsx"
+RUTA_PLANTILLAS = r"C:\Users\Andres Zapatel\OneDrive - Universidad Peruana Cayetano Heredia\Archivos de Idiomas Cayetano - Idiomas Cayetano\02 Programa Idiomas\Administrativo\Certificados y Constancias\Repositorio\plantillas"
+RUTA_SALIDAS = r"C:\Users\Andres Zapatel\OneDrive - Universidad Peruana Cayetano Heredia\CERTIFICADOS PYTHON"
+RUTA_TEMP_QR = r"C:\Users\Andres Zapatel\OneDrive - Universidad Peruana Cayetano Heredia\CERTIFICADOS PYTHON\QR"
 
 EXCLUIR_VALORES = ['Duplicado', 'Observado']
 

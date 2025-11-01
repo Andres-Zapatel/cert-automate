@@ -13,7 +13,6 @@ from docx2pdf import convert
 def obtener_superindice(dia):
   if 10 < dia < 14:
     return("th")
-  si = {1: "st", 2: "nd", 3: "th"}
   si = {1: "st", 2: "nd", 3: "rd"}
   return si.get(dia % 10, "th")  
 
